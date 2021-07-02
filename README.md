@@ -50,20 +50,20 @@ There are two ways to install HTMLHint: globally and locally.
 
 In case you want to include HTMLHint as part of your project, you can install it locally using NPM:
 
-```
+``` 
 $ npm install htmlhint --save-dev
-```
+``` 
 
 After that, You can run HTMLHint on any file or directory like this:
 
 ```
 $ ./node_modules/.bin/htmlhint www/index.html
 $ ./node_modules/.bin/htmlhint www/**/*.html
-```
+``` 
 
 ### Global Installation and Usage
 
-If you want to make HTMLHint available to tools that run across all of your projects, you can install HTMLHint globally using NPM:
+If you want to make HTMLHint available to tools that run across all of your projects, you can install HTMLHint globally using NPM: 
 
 ```
 $ npm install htmlhint -g
