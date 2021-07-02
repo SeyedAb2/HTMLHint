@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <br>
   <a href="https://htmlhint.com"><img src="https://raw.githubusercontent.com/htmlhint/HTMLHint/master/website/static/img/htmlhint.png" alt="Logo HTMLHint" width="170"></a>
   <br>
